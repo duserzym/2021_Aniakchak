@@ -1,0 +1,4 @@
+tab	locations
+lat_n	lat_s	location	lon_e	lon_w
+		Aniakchak		
+		SIO		

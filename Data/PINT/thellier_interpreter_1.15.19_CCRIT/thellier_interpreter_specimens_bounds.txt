@@ -1,0 +1,57 @@
+acceptance criteria:
+specimen_int_n	specimen_frac	specimen_int_ptrm_n	specimen_b_beta	specimen_gmax	specimen_k_prime	specimen_int_mad	specimen_int_dang	specimen_scat
+3	0.78	1	0.100	0.60	0.164	5.0	10.0	True
+--------------------------------
+er_sample_name	er_specimen_name	specimen_int_corr_anisotropy	Anisotropy_code	specimen_int_corr_nlt	specimen_int_corr_cooling_rate	specimen_lab_field_dc_uT	specimen_int_min_uT	specimen_int_max_uT	WARNING
+NA02-1Ba	NA02-1Ba	-	-	-	-	30.0	66.1	72.7	WARNING: No anisotropy correction
+NA02-1Bb	NA02-1Bb	-	-	-	-	30.0	68.9	69.4	WARNING: No anisotropy correction
+NA02-1Bc	NA02-1Bc	-	-	-	-	30.0	67.3	67.3	WARNING: No anisotropy correction
+NA92-28Ca	NA92-28Ca	-	-	-	-	30.0	57.1	59.6	WARNING: No anisotropy correction
+NA92-28Cb	NA92-28Cb	-	-	-	-	30.0	58.4	58.4	WARNING: No anisotropy correction
+NA92-28Cc	NA92-28Cc	-	-	-	-	30.0	61.7	69.1	WARNING: No anisotropy correction
+NA92-28Cf	NA92-28Cf	-	-	-	-	30.0	68.1	73.6	WARNING: No anisotropy correction
+NA92-42Da	NA92-42Da	-	-	-	-	30.0	58.8	58.8	WARNING: No anisotropy correction
+NA92-42Db	NA92-42Db	-	-	-	-	30.0	54.2	58.2	WARNING: No anisotropy correction
+NA92-42Dc	NA92-42Dc	-	-	-	-	30.0	55.3	60.5	WARNING: No anisotropy correction
+NA92-42Dd	NA92-42Dd	-	-	-	-	30.0	64.2	70.9	WARNING: No anisotropy correction
+NA92-42De	NA92-42De	-	-	-	-	30.0	57.4	59.0	WARNING: No anisotropy correction
+NA92-42Df	NA92-42Df	-	-	-	-	30.0	48.6	48.6	WARNING: No anisotropy correction
+NA92-57Ba	NA92-57Ba	-	-	-	-	30.0	83.4	83.4	WARNING: No anisotropy correction
+NA92-57Bb	NA92-57Bb	-	-	-	-	30.0	77.9	80.2	WARNING: No anisotropy correction
+NA92-57Be	NA92-57Be	-	-	-	-	30.0	81.7	83.9	WARNING: No anisotropy correction
+NA92-57Bf	NA92-57Bf	-	-	-	-	30.0	59.1	59.1	WARNING: No anisotropy correction
+NA92-59a	NA92-59a	-	-	-	-	30.0	69.7	74.8	WARNING: No anisotropy correction
+NA92-59f	NA92-59f	-	-	-	-	30.0	69.5	74.8	WARNING: No anisotropy correction
+NA93-100Ab	NA93-100Ab	-	-	-	-	30.0	41.2	42.8	WARNING: No anisotropy correction
+NA93-100Ac	NA93-100Ac	-	-	-	-	30.0	41.9	43.8	WARNING: No anisotropy correction
+NA94-19a	NA94-19a	-	-	-	-	30.0	55.1	57.2	WARNING: No anisotropy correction
+NA94-19b	NA94-19b	-	-	-	-	30.0	57.4	59.5	WARNING: No anisotropy correction
+NA94-19c	NA94-19c	-	-	-	-	30.0	66.6	68.7	WARNING: No anisotropy correction
+NA94-19d	NA94-19d	-	-	-	-	30.0	52.8	54.3	WARNING: No anisotropy correction
+NA94-19e	NA94-19e	-	-	-	-	30.0	50.0	51.2	WARNING: No anisotropy correction
+NA94-19f	NA94-19f	-	-	-	-	30.0	38.3	38.3	WARNING: No anisotropy correction
+NA94-2a	NA94-2a	-	-	-	-	30.0	54.1	55.6	WARNING: No anisotropy correction
+NA94-2b	NA94-2b	-	-	-	-	30.0	57.9	59.3	WARNING: No anisotropy correction
+NA94-2c	NA94-2c	-	-	-	-	30.0	59.4	60.5	WARNING: No anisotropy correction
+NA94-2d	NA94-2d	-	-	-	-	30.0	52.0	54.9	WARNING: No anisotropy correction
+NA94-2e	NA94-2e	-	-	-	-	30.0	51.4	52.1	WARNING: No anisotropy correction
+NA94-2f	NA94-2f	-	-	-	-	30.0	62.4	65.5	WARNING: No anisotropy correction
+NA94-3a	NA94-3a	-	-	-	-	30.0	70.1	71.3	WARNING: No anisotropy correction
+NA94-3b	NA94-3b	-	-	-	-	30.0	72.7	73.7	WARNING: No anisotropy correction
+NA94-3d	NA94-3d	-	-	-	-	30.0	73.0	73.8	WARNING: No anisotropy correction
+NA94-3e	NA94-3e	-	-	-	-	30.0	71.7	72.6	WARNING: No anisotropy correction
+NA94-3f	NA94-3f	-	-	-	-	30.0	70.3	71.5	WARNING: No anisotropy correction
+NA94-3g	NA94-3g	-	-	-	-	30.0	72.3	74.0	WARNING: No anisotropy correction
+NA94-5b	NA94-5b	-	-	-	-	30.0	48.5	48.5	WARNING: No anisotropy correction
+NA94-5c	NA94-5c	-	-	-	-	30.0	46.6	46.6	WARNING: No anisotropy correction
+NA94-5f	NA94-5f	-	-	-	-	30.0	51.3	52.9	WARNING: No anisotropy correction
+NA94-5h	NA94-5h	-	-	-	-	30.0	56.0	56.7	WARNING: No anisotropy correction
+NA94-5i	NA94-5i	-	-	-	-	30.0	43.8	44.9	WARNING: No anisotropy correction
+NA97-10c	NA97-10c	-	-	-	-	30.0	38.7	38.7	WARNING: No anisotropy correction
+NA97-10e	NA97-10e	-	-	-	-	30.0	49.2	51.5	WARNING: No anisotropy correction
+NA97-24a	NA97-24a	-	-	-	-	30.0	58.8	63.2	WARNING: No anisotropy correction
+NA97-24b	NA97-24b	-	-	-	-	30.0	62.2	63.6	WARNING: No anisotropy correction
+NA97-24d	NA97-24d	-	-	-	-	30.0	54.4	58.6	WARNING: No anisotropy correction
+NA97-24e	NA97-24e	-	-	-	-	30.0	56.0	58.0	WARNING: No anisotropy correction
+NA97-24f	NA97-24f	-	-	-	-	30.0	54.5	56.3	WARNING: No anisotropy correction
+NA97-24g	NA97-24g	-	-	-	-	30.0	54.8	58.7	WARNING: No anisotropy correction

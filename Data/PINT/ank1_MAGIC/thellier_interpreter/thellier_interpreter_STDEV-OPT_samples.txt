@@ -1,0 +1,5 @@
+acceptance criteria:
+specimen_int_n	specimen_frac	specimen_int_ptrm_n	specimen_b_beta	specimen_gmax	specimen_k_prime	specimen_int_mad	specimen_int_dang	specimen_scat	sample_int_n	sample_int_sigma	sample_int_sigma_perc	average_by_sample_or_site	interpreter_method	include_nrm	average_by_sample_or_site	interpreter_method	include_nrm
+3	0.78	1	0.100	0.60	0.164	5.0	10.0	True	3	4.000e-06	10.0	sample	stdev_opt	True	sample	stdev_opt	True
+---------------------------------
+er_sample_name	sample_int_n	sample_int_uT	sample_int_sigma_uT	sample_int_sigma_perc	sample_int_min_uT	sample_int_min_sigma_uT	sample_int_max_uT	sample_int_max_sigma_uT	sample_int_interval_uT	sample_int_interval_perc	Warning

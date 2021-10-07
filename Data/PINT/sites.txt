@@ -1,0 +1,27 @@
+tab	sites
+lat	location	lon	site
+	Aniakchak		NA97-10
+	Aniakchak		NA92-40
+	Aniakchak		NA92-39
+	Aniakchak		NA02-1B
+	Aniakchak		NA02-11F
+	Aniakchak		NA92-28C
+	Aniakchak		NA92-59
+	Aniakchak		NA94-19
+	Aniakchak		NA93-49B
+	Aniakchak		NA93-100A
+	Aniakchak		NA92-57B
+	Aniakchak		NA94-3
+	Aniakchak		NA94-2
+	Aniakchak		NA92-70
+	Aniakchak		NA97-25
+	Aniakchak		NA97-24
+	Aniakchak		NA94-5
+	Aniakchak		NA02-10F
+	Aniakchak		NA92-42D
+	Aniakchak		NA92-72
+	Aniakchak		NA02-70G
+	Aniakchak		9Q142-3-
+	Aniakchak		9Q144-1-1U
+	Aniakchak		9Q144-2-
+	Aniakchak		9Q146-2-

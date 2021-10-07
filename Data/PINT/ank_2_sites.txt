@@ -1,0 +1,16 @@
+tab	sites
+site	location	lat	lon
+NA94-3	Aniakchak		
+NA94-2	Aniakchak		
+NA92-70	Aniakchak		
+NA97-25	Aniakchak		
+NA97-24	Aniakchak		
+NA94-5	Aniakchak		
+NA02-10F	Aniakchak		
+NA92-42D	Aniakchak		
+NA92-72	Aniakchak		
+NA02-70G	Aniakchak		
+9Q142-3-	Aniakchak		
+9Q144-1-1U	Aniakchak		
+9Q144-2-	Aniakchak		
+9Q146-2-	Aniakchak		
