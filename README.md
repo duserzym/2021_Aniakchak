@@ -6,6 +6,8 @@ Cromwell, G., Zhang, Y. (2021), New paleointensity data from Aniakchak volcano, 
 ## Code
 This folder contains a Jupyter notebook developed using a Python 3 kernel that generates the figures and conducts the data analysis associated with the study. The notebook uses the Python packages listed in the environment.yml file in the folder. Users of conda can create an environment using that file in order to run the code with all of the necessary libraries.
 
+The full computational environment used to execute this code can be found within the `environment.yml` file in this repository.
+
 ## Data
 This folder contains new paleomagnetic data and compiled geochemistry data.
 
